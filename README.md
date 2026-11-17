@@ -32,7 +32,7 @@ iyf-s12-week-07-{gitau0076-cpu}/
 
 ## Features
 - Manage tasks by adding, editing, completing, deleting, and filtering them.
-- Save task data, filter preference, and light/dark theme in `localStorage`.
+- Save task data, filter preferences, and light/dark theme in `localStorage`.
 - Create and save notes in the browser.
 - Use a shopping cart with quantity controls, totals, persistence, and undo.
 - Save and restore recent searches in the Day 2 challenge.
@@ -42,7 +42,7 @@ iyf-s12-week-07-{gitau0076-cpu}/
 
 ## What I Learnt
 - How to split a JavaScript app into ES modules with clear responsibilities.
-- How centralized state and pure functions make changes easier to follow and test.
+- How centralised state and pure functions make changes easier to follow and test.
 - How to save and restore data with `localStorage` and `sessionStorage`.
 - How to write Vitest tests for logic without needing a browser.
 - How to use ESLint, browser console tools, and DevTools breakpoints to find problems.
@@ -53,10 +53,13 @@ iyf-s12-week-07-{gitau0076-cpu}/
 - Finding the right place to set breakpoints and following an event from the UI into state logic.
 - Making saved data recover safely when storage is empty, malformed, or unavailable.
 - Checking that form drafts and search history persist across refreshes and clear at the correct time.
-- Keeping page behavior and styling organized while working on several small exercises.
+- Keeping page behaviour and styling organised while working on several small exercises.
 
 ### Collaboration
 - **Partner:** [@micheal-yugi](https://github.com/michael-yugi)
 -  **PR I opened:** https://github.com/gitau0076-cpu/iyf-s12-week-07-gitau0076-cpu/pull/4
 - **PR I reviewed:** https://github.com/michael-yugi/iyf-s12-week-07-michael-yugi/pull/3#issue-6453303104
 
+- **Partner:** [@micheal-yugi](https://github.com/michael-yugi)
+-  **PR I reviewed:** https://github.com/gitau0076-cpu/iyf-s12-week-07-gitau0076-cpu/pull/4
+-  **PR I opened:**
