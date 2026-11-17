@@ -60,6 +60,6 @@ iyf-s12-week-07-{gitau0076-cpu}/
 -  **PR I opened:** https://github.com/gitau0076-cpu/iyf-s12-week-07-gitau0076-cpu/pull/4
 - **PR I reviewed:** https://github.com/michael-yugi/iyf-s12-week-07-michael-yugi/pull/3#issue-6453303104
 
-- **Partner:** [@micheal-yugi](https://github.com/michael-yugi)
+- **Partner:** [@gitau0076-cpu](https://github.com/gitau0076-cpu)
 -  **PR I reviewed:** https://github.com/gitau0076-cpu/iyf-s12-week-07-gitau0076-cpu/pull/4
--  **PR I opened:**
+-  **PR I opened:** https://github.com/michael-yugi/iyf-s12-week-07-michael-yugi/pull/3#issue-6453303104
